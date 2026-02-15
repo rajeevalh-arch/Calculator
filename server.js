@@ -1,0 +1,1 @@
+// Redundant file removed. Backend logic moved to api/send-otp.ts for Vercel compatibility.
